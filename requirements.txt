@@ -1,4 +1,2 @@
-fastapi==.110.0
-uvicorn==0.28.0
-requests==2.31.0
-apscheduler==3.10.4
+fastapi
+uvicorn
